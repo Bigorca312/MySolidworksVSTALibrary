@@ -1,4 +1,5 @@
  Download all .dll files in this folder, and place wherever you want to store the files.
 They must be located in the same folder, and also not in a ZIP
 
+THE ACTUAL MACRO FILE IS "ManageDisplayStatesVSTA.dll"
 THE METHOD NAME NEEDS TO BE MAIN()
